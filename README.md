@@ -12,6 +12,6 @@
 [<img align="left" alt="oguzhan-memis | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UClRbogMiRtiVpVRseePpKIQ/featured)
 [<img align="left" alt="oguzhan-memis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/o%C4%9Fuzhan-memi%C5%9F-3853b71b0/)
 
-
+<br/>
 ---
 
