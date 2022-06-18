@@ -6,6 +6,11 @@
 - 🔭 I’m currently working on Vue.js
 - 📫 How to reach me: **oguzhanmemis266@gmail.com** 
 
-![GitHub Logo](https://d1m75rqqgidzqn.cloudfront.net/images/logo.png) Format: ![Alt Text](url) 
 
-### Coonect with me:
+### Connect with me:
+
+[<img align="left" alt="oguzhan-memis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/o%C4%9Fuzhan-memi%C5%9F-3853b71b0/)
+
+
+<br/>
+
