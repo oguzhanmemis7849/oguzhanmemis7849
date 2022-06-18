@@ -24,8 +24,7 @@
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="GitHub" width="26px" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" />
-<img align="left" alt="GitHub" width="26px" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" />
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MsSQL" width="26px" src="https://miro.medium.com/max/1400/1*sluuRP9RbH3MPqzbFNLEmQ.png" />
 <img align="left" alt="Firebase" width="26px" src="https://cdn.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png" />
