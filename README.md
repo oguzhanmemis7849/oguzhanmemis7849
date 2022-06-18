@@ -33,7 +33,6 @@
 <br />
 
 ---
-<p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oguzhanmemis7849" alt="oguzhanmemis7849" /></a></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhanmemis7849&show_icons=true&locale=en&layout=compact" alt="oguzhanmemis7849" /></p>
 <br />
 
