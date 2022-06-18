@@ -30,3 +30,11 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<br />
+
+---
+<p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oguzhanmemis7849" alt="oguzhanmemis7849" /></a></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhanmemis7849&show_icons=true&locale=en&layout=compact" alt="oguzhanmemis7849" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzhanmemis7849&show_icons=true&locale=en" alt="oguzhanmemis7849" width="50%" /></p><br />
+<br />
+
