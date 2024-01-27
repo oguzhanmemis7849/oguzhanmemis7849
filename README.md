@@ -2,7 +2,7 @@
 
 ## A Computer Engineer in living in Turkey for now!
 
-- 👀 I’m interested in **Frontend Developing** now. **Javascript, Typescript, Vue, Nuxt, React, Next, Angular **... 
+- 👀 I’m interested in **Frontend Developing** now. **Javascript, Typescript, Vue, Nuxt, React, Next, Angular**... 
 - 🔭 I’m currently working on Vue.js
 - 📫 How to reach me: **oguzhanmemis266@gmail.com** 
 
